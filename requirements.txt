@@ -1,5 +1,5 @@
-mols2grid
-rdkit
-altair
+rdkit-pypi
 pandas
 streamlit
+sklearn
+altair
