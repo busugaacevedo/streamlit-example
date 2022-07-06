@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to the first APP of BRANDON!
+# Welcome to the first APP of CAROLINA!
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
