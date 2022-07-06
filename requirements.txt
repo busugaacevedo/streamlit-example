@@ -1,3 +1,5 @@
+mols2grid
+rdkit
 altair
 pandas
 streamlit
