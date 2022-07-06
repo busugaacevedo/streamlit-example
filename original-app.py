@@ -2,8 +2,8 @@
 Docker Container: https://hub.docker.com/r/continuumio/anaconda3
 RDKit Installation: https://www.rdkit.org/docs/Install.html
 """
-!pip install mols2grid
-!pip install rdkit
+pip install mols2grid
+pip install rdkit
 import mols2grid
 import pandas as pd
 import streamlit as st
