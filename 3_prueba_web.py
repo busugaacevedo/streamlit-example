@@ -21,8 +21,8 @@ st.markdown("""
 def download_dataset():
     """Loads once then cached for subsequent runs"""
     df = pd.read_csv(
-        "TABLA1.txt", sep="\t"
-        #"https://www.cureffi.org/wp-content/uploads/2013/10/drugs.txt", sep="\t"
+        #"TABLA1.txt", sep="\t"
+        "https://raw.githubusercontent.com/busugaacevedo/streamlit-example/master/TABLA1.txt", sep="\t"
     ).dropna()
     return df
 
